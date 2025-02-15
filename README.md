@@ -1,4 +1,3 @@
-# Data Preparation Python
-
-main fun() {
-}
+# Data Preparation R
+1) Get descriptive stats
+2) 
